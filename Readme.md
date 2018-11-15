@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/UseRegressionLines/Form1.cs) (VB: [Form1.vb](./VB/UseRegressionLines/Form1.vb))
+<!-- default file list end -->
 # How to display a regression line for a series
 
 
