@@ -5,9 +5,8 @@
 <!-- default file list end -->
 # How to display a regression line for a series
 
+This example demonstrates how a [regression line](https://docs.devexpress.com/WindowsForms/6231/controls-and-libraries/chart-control/series/indicators/simple-indicators/regression-lines?p=netframework) can be displayed for a series of the [Stock](https://docs.devexpress.com/WindowsForms/2987/controls-and-libraries/chart-control/series-views/2d-series-views/financial-series-views/stock-chart?p=netframework) view type. Note that to access the collection of indicators, you should cast your series view to an appropriate type
 
-<p>This example demonstrates how a <a href="http://www.devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument6231.htm">regression line</a> can be displayed for a series of the <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument2987.htm">Stock</a> view type. Note that to access the collection of indicators, you should cast your series view to an appropriate type.</p><p>To create a regression line, you should define a <strong>value level</strong> to which it corresponds.</p><p>For a step-by-step design time tutorial, refer to <a href="http://www.devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument6254.htm">How to: Show a Regression Line for a Stock Chart</a>.</p>
+To create a regression line, you should define a [value level](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.SingleLevelIndicator.ValueLevel) to which it corresponds.
 
-<br/>
-
-
+For a step-by-step design time tutorial, refer to [How to: Show a Regression Line for a Stock Chart](https://docs.devexpress.com/WindowsForms/6254/controls-and-libraries/chart-control/examples/chart-elements/how-to-show-a-regression-line-for-a-stock-chart?p=netframework).
